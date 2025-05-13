@@ -1,4 +1,3 @@
-Here's the raw Markdown (`.md`) file for CSS Text Spacing and Line Breaks:
 
 ```markdown
 # CSS Text Spacing & Line Breaks
