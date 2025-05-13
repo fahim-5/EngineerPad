@@ -61,8 +61,12 @@ This guide is a comprehensive deep dive into the **Model-View-Controller (MVC)**
 
 ## 4. How MVC Works: Data Flow 
 
-[User Interaction] ↓ [Controller] ↓ [Model] ←→ [Database/API] ↓ [View] ↓ [User]
----
+---[User Interaction] ↓
+[Controller]      ↓
+[Model]           ←→ [Database/API]
+    ↓
+[View]            ↓
+[User]
 
 ## 5. Benefits of MVC
 
@@ -95,7 +99,14 @@ Though originally a server-side pattern, MVC also influences frontend frameworks
 ---
 
 ## 8. Common MVC Project Structure 
-project-root/ │ ├── controllers/    # Logic that processes requests ├── models/         # Data models and business logic ├── views/          # HTML or UI templates ├── routes/         # Route definitions ├── public/         # Static assets (images, CSS, JS) └── app.js          # Entry point of the application
+
+project-root/
+├── controllers/  # Logic that processes requests
+├── models/       # Data models and business logic
+├── views/        # HTML or UI templates
+├── routes/       # Route definitions
+├── public/       # Static assets (images, CSS, JS)
+└── app.js        # Entry point of the application
 
 ---
 
