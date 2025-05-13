@@ -1,4 +1,4 @@
-
+Here's the raw Markdown (`.md`) file for CSS Syntax & Selectors with beginner-friendly explanations:
 
 ```markdown
 # CSS Syntax & Selectors
