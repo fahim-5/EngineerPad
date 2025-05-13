@@ -1,5 +1,3 @@
-Sure thing! Here's a raw Markdown (.md) file crafted with clarity and a warm onboarding vibe—ideal for beginners diving into debugging, validation, and linting in web development.
-
 
 ---
 
