@@ -21,6 +21,7 @@ h1 {
 p {
   line-height: 150%;
 }
+```
 
 **Best Practices:**
 - Use unitless values (1.4-1.6 for body text)
