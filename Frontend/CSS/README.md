@@ -1,4 +1,4 @@
-# Mastering CSS â€” The Art & Science of Styling the Web
+# Mastering CSS The Art & Science of Styling the Web
 
 Welcome to the **Mastering CSS** roadmap â€” a journey through cascading beauty, layout precision, and design resilience. This document will turn you into a front-end stylist who can sculpt any interface with pixel-perfect finesse. Think of it as your tactical playbook for making HTML shine.
 
