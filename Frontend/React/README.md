@@ -11,7 +11,7 @@ Welcome to your all-inclusive guide to mastering **React.js**—from foundationa
 - Why Choose React for Modern Web Apps?
 - Key Features and Benefits
 - Setting Up Node.js and npm
-- Creating Your First React App (`npx create-react-app`)
+- Creating Your First React App (`npm create-vite-app`)
 - Understanding the Default File Structure
 
 ---
