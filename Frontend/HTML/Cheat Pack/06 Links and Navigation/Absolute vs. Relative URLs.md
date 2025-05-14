@@ -1,6 +1,4 @@
-Here's a comprehensive `markdown` tutorial file on **Absolute vs. Relative URLs** for your Frontend/HTML Cheat Pack:
 
-```markdown
 # Absolute vs. Relative URLs - Complete Guide
 
 Understanding the difference between absolute and relative URLs is crucial for building maintainable and well-structured websites. This guide covers their definitions, use cases, advantages, and best practices.
