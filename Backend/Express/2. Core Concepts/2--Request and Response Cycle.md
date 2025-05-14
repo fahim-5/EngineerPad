@@ -117,4 +117,3 @@ Client Receives Response
 Understanding this cycle helps you build more predictable and maintainable Express applications.
 
 
-This Markdown document provides a comprehensive yet approachable explanation of the request-response cycle in Express.js, suitable for beginners while maintaining professional standards. It includes code examples, tables, and clear section organization to enhance understanding.
