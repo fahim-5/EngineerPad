@@ -1,6 +1,4 @@
-Here is a beginner-friendly Markdown file for "Responsive Table Techniques in HTML" with examples:
 
-```markdown
 # Responsive Table Techniques in HTML
 
 Tables are an essential part of web development, especially when displaying data. However, making tables responsive can be challenging. Responsive tables ensure that your tables adapt well to different screen sizes and devices, providing a great user experience.
@@ -157,6 +155,5 @@ Bootstrap's `table-responsive` class ensures that the table becomes scrollable o
 - **Leverage Frameworks** like Bootstrap for easy responsiveness.
 
 By implementing these techniques, you can ensure that your tables look great on all devices, from desktops to smartphones. Happy coding! 🚀
-```
 
 You can save this content into a Markdown file, e.g., `responsive-tables.md`, and share or use it in your projects. Let me know if you'd like to expand on this further!
