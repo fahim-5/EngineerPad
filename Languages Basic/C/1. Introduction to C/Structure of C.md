@@ -1,7 +1,4 @@
 
-
----
-
 # Structure of a C Program
 
 ## Introduction
@@ -35,73 +32,49 @@ int main() {        // 3. Main Function
 }
 
 // 9. User-Defined Functions (optional)
-
-
----
-
-Components Explained
-
-1. Preprocessor Directives
-
-Begin with # (e.g., #include <stdio.h>)
-
-Used to include header files or define macros before compilation.
-
-
-2. Global Declarations
-
-Variables and functions declared outside main().
-
-Accessible from any function in the program.
-
-
-3. Main Function
-
-Entry point of every C program: int main().
-
-Must return an integer (typically 0 for success).
-
-
-4. Variable Declarations
-
-All variables must be declared before use.
-
-Example: int age; float salary;
-
-
-5. Input/Output Statements
-
-Input: scanf()
-
-Output: printf()
-
-
-6. Processing/Logic
-
-Core logic or computations.
-
-Includes arithmetic, loops, conditions, etc.
-
-
-7. Return Statement
-
-Ends the program and optionally returns a value to the OS.
-
-return 0; indicates successful execution.
-
-
-8. User-Defined Functions
-
-Optional modular functions defined by the programmer.
-
-Enhance reusability and readability.
-
-
+```
 
 ---
 
-Example: C Program to Find the Square of a Number
+## Components Explained
 
+### 1. Preprocessor Directives
+- Begin with `#` (e.g., `#include <stdio.h>`).
+- Used to include header files or define macros before compilation.
+
+### 2. Global Declarations
+- Variables and functions declared outside `main()`.
+- Accessible from any function in the program.
+
+### 3. Main Function
+- Entry point of every C program: `int main()`.
+- Must return an integer (typically `0` for success).
+
+### 4. Variable Declarations
+- All variables must be declared before use.
+- Example: `int age; float salary;`.
+
+### 5. Input/Output Statements
+- Input: `scanf()`.
+- Output: `printf()`.
+
+### 6. Processing/Logic
+- Core logic or computations.
+- Includes arithmetic, loops, conditions, etc.
+
+### 7. Return Statement
+- Ends the program and optionally returns a value to the OS.
+- `return 0;` indicates successful execution.
+
+### 8. User-Defined Functions
+- Optional modular functions defined by the programmer.
+- Enhance reusability and readability.
+
+---
+
+## Example: C Program to Find the Square of a Number
+
+```c
 #include <stdio.h>
 
 int square(int n);  // Function Declaration
@@ -122,29 +95,19 @@ int main() {
 int square(int n) {
     return n * n;
 }
-
+```
 
 ---
 
-Conclusion
+## Conclusion
 
 A well-structured C program is easier to read, debug, and scale. Mastering its structure lays the groundwork for writing efficient, modular, and maintainable code.
 
 > “Structure is the backbone of every great program. In C, it’s not just syntax — it’s strategy.”
 
-
-
-
 ---
 
-References
-
-The C Programming Language by Kernighan & Ritchie
-
-cplusplus.com
-
-GeeksforGeeks - C Programming
-
-
-Need this turned into a GitHub README, lecture slide format, or a PDF? Just say the word.
-
+## References
+- *The C Programming Language* by Kernighan & Ritchie.
+- [cplusplus.com](https://www.cplusplus.com).
+- [GeeksforGeeks - C Programming](https://www.geeksforgeeks.org/c-programming-language/).
