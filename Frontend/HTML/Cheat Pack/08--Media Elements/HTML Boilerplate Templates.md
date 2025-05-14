@@ -28,6 +28,8 @@ A boilerplate is the basic structure of an HTML document. It's a good starting p
 
 </body>
 </html>
+```
+
 
 Explanation:
 
@@ -47,7 +49,11 @@ Explanation:
 
 ---
 
+
+
 2. Responsive Mobile-First Template
+
+```html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -68,6 +74,8 @@ Explanation:
 </body>
 </html>
 
+```
+
 Use Case:
 
 Perfect for progressive web apps (PWAs) or modern single-page apps (SPAs).
@@ -76,6 +84,8 @@ Perfect for progressive web apps (PWAs) or modern single-page apps (SPAs).
 ---
 
 3. Boilerplate with Tailwind CSS (CDN)
+
+```html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -91,6 +101,8 @@ Perfect for progressive web apps (PWAs) or modern single-page apps (SPAs).
 
 </body>
 </html>
+```
+
 
 Ideal For:
 
