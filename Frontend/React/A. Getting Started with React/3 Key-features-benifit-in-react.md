@@ -1,4 +1,3 @@
-```markdown
 # Key Features and Benefits of React  
 
 React revolutionizes web development with its innovative architecture and powerful capabilities. Here's why it stands out:
@@ -64,4 +63,3 @@ React combines cutting-edge features with practical benefits to deliver:
 - **Future-proof architecture**  
 
 The perfect balance between power and developer productivity.
-```
