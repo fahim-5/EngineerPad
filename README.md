@@ -11,6 +11,7 @@
 - [Tech Stack & Tools](#tech-stack--tools)
 - [Resources](#resources)
 - [License](#license)
+- [AI Prompt](#prompt)
 
 ---
 
@@ -116,6 +117,24 @@ Some of my favorite resources used while building this repo:
 
 This repository is licensed under the **MIT License**.  
 Feel free to use, fork, and adapt it for your own learning journey.
+
+---
+
+## AI Prompt
+
+Title :
+
+Your task for this title is:
+
+A. Write a complete Markdown file Related to the topic.
+B.Explain well with examples.
+C.Try to follow a beginner-friendly approach so that any student can understand all topics.
+D.Add as many relevant points as possible but do now write Extra things. 
+
+E.Write a clean and very smooth Markdown file.6.Use standard Markdown syntex.
+
+
+Remember carefully : Do not add any extra text. Write only the content related to the title so that I can copy and paste directly without any modifications
 
 ---
 
