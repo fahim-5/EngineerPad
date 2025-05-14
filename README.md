@@ -102,7 +102,24 @@ MIT License - Free to use and adapt.
 ---
 
 ## AI Prompt
-*(Your original AI prompt content here)*
+
+Title :
+
+Overview
+
+Your task for this title is:
+
+1. Write a complete Markdown file.
+2. Explain well with examples.
+3. Try to follow a beginner-friendly approach so that any student can understand all topics.
+4. Add as many relevant points as possible. Write a clean and very smooth Markdown file.
+
+5. Remember carefully: Do not add any extra text. Write only the content related to the title so that I can copy and paste directly without any modifications.
+
+Structure Guidelines
+
+1. Markdown Syntax
+Use standard Markdown syntax for headings, lists, code blocks, etc.
 
 ---
 
