@@ -34,14 +34,11 @@ greet('Fahim');
 
 ```
 ---
-Popular JavaScript Libraries & Frameworks
+### Popular JavaScript Libraries & Frameworks
 
 Frontend: React.js, Vue.js, Angular, Svelte
-
 Backend: Node.js, Express.js
-
 Testing: Jest, Mocha, Cypress
-
 Build Tools: Webpack, Vite, Babel
 
 ---
