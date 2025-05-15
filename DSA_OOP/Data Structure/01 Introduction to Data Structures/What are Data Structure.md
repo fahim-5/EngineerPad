@@ -1,0 +1,1 @@
+**Data Structure**: A specialized format for organizing, storing, and managing data efficiently to enable fast access, insertion, deletion, and modification. It defines the relationship between data and the operations that can be performed on it. Examples: Arrays, Linked Lists, Trees, Graphs.
