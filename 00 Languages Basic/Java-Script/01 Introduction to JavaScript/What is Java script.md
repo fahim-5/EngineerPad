@@ -33,7 +33,7 @@ function greet(name) {
 greet('Fahim');
 
 ```
-
+---
 Popular JavaScript Libraries & Frameworks
 
 Frontend: React.js, Vue.js, Angular, Svelte
@@ -44,7 +44,7 @@ Testing: Jest, Mocha, Cypress
 
 Build Tools: Webpack, Vite, Babel
 
-
+---
 Conclusion
 
 JavaScript is a versatile, essential language for modern web development. Whether you're building responsive UIs or scalable backends, JS provides the tools and ecosystem to bring your ideas to life.
