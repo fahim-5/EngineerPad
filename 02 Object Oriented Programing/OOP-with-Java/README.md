@@ -1,118 +1,119 @@
-# Mastering Object-Oriented Programming (OOP) in Java
+# **Mastering OOP in Java – A Student-Friendly Guide**  
 
-Welcome to **Mastering OOP in Java** — a comprehensive guide to learning and mastering the principles and implementation of Object-Oriented Programming using Java. This curriculum is ideal for students, software developers, and professionals looking to deepen their understanding of OOP design, syntax, and architecture.
-
----
-
-## Table of Contents
-
-### 1. Introduction
-- What is OOP?
-- Benefits of Object-Oriented Programming
-- Java and the OOP Paradigm
-
-### 2. Java Fundamentals Recap
-- Java Syntax and Data Types
-- Control Flow (if, switch, loops)
-- Methods and Variables
-- Packages and Import Statements
-
-### 3. Core OOP Concepts
-- Classes and Objects
-- Constructors
-- `this` Keyword
-- Static vs Instance Members
-
-### 4. Encapsulation
-- Access Modifiers (private, public, protected, default)
-- Getters and Setters
-- Data Hiding
-- Immutable Classes
-
-### 5. Inheritance
-- Types of Inheritance in Java
-- `extends` Keyword
-- Method Overriding
-- The `super` Keyword
-
-### 6. Polymorphism
-- Compile-Time Polymorphism (Method Overloading)
-- Run-Time Polymorphism (Method Overriding)
-- `instanceof` Operator
-- Upcasting and Downcasting
-
-### 7. Abstraction
-- Abstract Classes
-- Interfaces
-- Functional Interfaces (Java 8+)
-- `default` and `static` Methods in Interfaces
-
-### 8. Composition vs Inheritance
-- "Has-A" vs "Is-A" Relationships
-- When to Use Composition Over Inheritance
-- Design Examples
-
-### 9. Object Class and Its Methods
-- `toString()`, `equals()`, `hashCode()`
-- `clone()`, `finalize()`
-- Best Practices for Overriding
-
-### 10. OOP Design Principles
-- SOLID Principles
-- DRY, KISS, YAGNI
-- Composition over Inheritance
-- Favor Interfaces over Abstract Classes
-
-### 11. Exception Handling in OOP
-- Checked vs Unchecked Exceptions
-- Custom Exception Classes
-- Exception Chaining
-- Best Practices
-
-### 12. Java Memory Model
-- Heap vs Stack
-- Garbage Collection
-- Object Lifecycle
-- Memory Leaks in OOP
-
-### 13. Design Patterns (OOP-Focused)
-- Creational Patterns (Singleton, Factory, Builder)
-- Structural Patterns (Adapter, Composite, Decorator)
-- Behavioral Patterns (Strategy, Observer, Command)
-
-### 14. Java 8+ Features for OOP
-- Lambda Expressions and Functional Interfaces
-- Streams and Collections
-- Optional Class
-- Method References
-
-### 15. Real-world OOP Projects in Java
-- Inventory Management System
-- Student Information Portal
-- Banking System with Inheritance and Interfaces
-- E-Commerce Mini Project with MVC Design
-
-### 16. Testing OOP Code
-- Unit Testing with JUnit
-- Mocking with Mockito
-- Test-Driven Development (TDD)
-- Code Coverage and Refactoring
-
-### 17. Best Practices and Code Quality
-- Clean Code Practices
-- Naming Conventions
-- Code Documentation (JavaDoc)
-- Linting and Static Analysis Tools
-
-### 18. Resources and References
-- Recommended Books and Courses
-- Java Documentation
-- GitHub Repositories
-- Interview Questions and Practice
+Welcome! This guide breaks down **Object-Oriented Programming (OOP) in Java** into **small, easy-to-digest lessons**. Each topic is **atomic** (self-contained) so you can **search, learn, and practice** efficiently.  
 
 ---
 
-## Getting Started
+## **📚 Table of Contents**  
 
-Clone this repository and follow the lessons in order, or jump to the sections you're interested in mastering. Each topic includes examples, explanations, and exercises.
+### **1️⃣ Introduction to OOP**  
+- [What is OOP?](#what-is-oop)  
+- [Why Use OOP?](#why-use-oop)  
+- [OOP vs Procedural Programming](#oop-vs-procedural-programming)  
+- [Java as an OOP Language](#java-as-an-oop-language)  
 
+### **2️⃣ Java Basics Recap**  
+- [Data Types in Java](#data-types-in-java)  
+- [Variables and Constants](#variables-and-constants)  
+- [Control Flow (if, switch, loops)](#control-flow)  
+- [Methods in Java](#methods-in-java)  
+
+### **3️⃣ Classes and Objects**  
+- [What is a Class?](#what-is-a-class)  
+- [What is an Object?](#what-is-an-object)  
+- [Creating Objects in Java](#creating-objects-in-java)  
+- [Constructors in Java](#constructors-in-java)  
+
+### **4️⃣ Encapsulation (Data Hiding)**  
+- [What is Encapsulation?](#what-is-encapsulation)  
+- [Access Modifiers (public, private, protected, default)](#access-modifiers)  
+- [Getters and Setters](#getters-and-setters)  
+- [Immutable Classes](#immutable-classes)  
+
+### **5️⃣ Inheritance (Reusing Code)**  
+- [What is Inheritance?](#what-is-inheritance)  
+- [`extends` Keyword](#extends-keyword)  
+- [Method Overriding](#method-overriding)  
+- [`super` Keyword](#super-keyword)  
+
+### **6️⃣ Polymorphism (Many Forms)**  
+- [What is Polymorphism?](#what-is-polymorphism)  
+- [Method Overloading](#method-overloading)  
+- [Method Overriding](#method-overriding)  
+- [`instanceof` Operator](#instanceof-operator)  
+
+### **7️⃣ Abstraction (Hiding Complexity)**  
+- [What is Abstraction?](#what-is-abstraction)  
+- [Abstract Classes](#abstract-classes)  
+- [Interfaces](#interfaces)  
+- [`default` and `static` Methods](#default-and-static-methods)  
+
+### **8️⃣ Composition vs Inheritance**  
+- ["Has-A" vs "Is-A" Relationships](#has-a-vs-is-a)  
+- [When to Use Composition](#when-to-use-composition)  
+- [Example: Car and Engine](#example-car-and-engine)  
+
+### **9️⃣ Object Class Methods**  
+- [`toString()`](#tostring-method)  
+- [`equals()` and `hashCode()`](#equals-and-hashcode)  
+- [`clone()` and `finalize()`](#clone-and-finalize)  
+
+### **🔟 OOP Design Principles**  
+- [SOLID Principles](#solid-principles)  
+- [DRY, KISS, YAGNI](#dry-kiss-yagni)  
+- [Favor Composition Over Inheritance](#favor-composition-over-inheritance)  
+
+### **1️⃣1️⃣ Exception Handling in OOP**  
+- [Checked vs Unchecked Exceptions](#checked-vs-unchecked-exceptions)  
+- [Custom Exceptions](#custom-exceptions)  
+- [Exception Chaining](#exception-chaining)  
+
+### **1️⃣2️⃣ Java Memory Model**  
+- [Heap vs Stack](#heap-vs-stack)  
+- [Garbage Collection](#garbage-collection)  
+- [Memory Leaks](#memory-leaks)  
+
+### **1️⃣3️⃣ OOP Design Patterns**  
+- [Singleton Pattern](#singleton-pattern)  
+- [Factory Pattern](#factory-pattern)  
+- [Observer Pattern](#observer-pattern)  
+
+### **1️⃣4️⃣ Java 8+ OOP Features**  
+- [Lambda Expressions](#lambda-expressions)  
+- [Streams API](#streams-api)  
+- [`Optional` Class](#optional-class)  
+
+### **1️⃣5️⃣ Real-World OOP Projects**  
+- [Banking System](#banking-system-project)  
+- [E-Commerce System](#e-commerce-project)  
+- [Student Management System](#student-management-project)  
+
+### **1️⃣6️⃣ Testing OOP Code**  
+- [JUnit Testing](#junit-testing)  
+- [Mockito (Mocking)](#mockito-mocking)  
+- [TDD (Test-Driven Development)](#tdd)  
+
+### **1️⃣7️⃣ Best Practices**  
+- [Clean Code Tips](#clean-code-tips)  
+- [Naming Conventions](#naming-conventions)  
+- [JavaDoc Comments](#javadoc-comments)  
+
+### **1️⃣8️⃣ Resources**  
+- [Books](#recommended-books)  
+- [Courses](#recommended-courses)  
+- [Interview Questions](#interview-questions)  
+
+---
+
+
+**Key Concepts:**  
+✔ **Classes & Objects** → Blueprint & Instance  
+✔ **Encapsulation** → Data hiding  
+✔ **Inheritance** → Code reuse  
+✔ **Polymorphism** → Many forms  
+✔ **Abstraction** → Simplifying complexity  
+
+
+---
+
+This format makes learning **easy, searchable, and student-friendly**! Let me know if you'd like any modifications. 😊
