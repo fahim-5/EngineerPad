@@ -1,6 +1,6 @@
 Here’s a Markdown file (.md) that prints "HELLO WORLD" in Python, along with an explanation for beginners about starting with Python:
 
-```markdown
+
 # Hello World in Python
 
 To print "HELLO WORLD" in Python, you can use the following code:
