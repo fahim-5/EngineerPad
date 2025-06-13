@@ -7,39 +7,39 @@ Welcome to your all-inclusive guide to mastering **React.js**—from foundationa
 ## Table of Contents
 
 ### A. Getting Started with React
-01 Introduction to React
-02 Why Choose React for Modern Web Apps?
-03 Key Features and Benefits
-04 Setting Up Node.js and npm
-05 Creating Your First React App (`npm create-vite-app`)
-06 Understanding the Default File Structure
+- 01 Introduction to React
+- 02 Why Choose React for Modern Web Apps?
+- 03 Key Features and Benefits
+- 04 Setting Up Node.js and npm
+- 05 Creating Your First React App (`npm create-vite-app`)
+- 06 Understanding the Default File Structure
 
 ---
 
 ### B. JSX – JavaScript XML
-07 What is JSX and Why It Matters
-08 Embedding JavaScript Expressions
-09 Working with Attributes and Children
-10 Common Mistakes and Syntax Pitfalls
+- 07 What is JSX and Why It Matters
+- 08 Embedding JavaScript Expressions
+- 09 Working with Attributes and Children
+- 10 Common Mistakes and Syntax Pitfalls
 
 ---
 
 ### C. React Components Architecture
-11 Introduction to Components
-12 Functional vs Class Components
-13 Creating and Exporting Components
-14 Props in Depth: Passing and Defaulting
-15 Using `children` and Composing Components
+- 11 Introduction to Components
+- 12 Functional vs Class Components
+- 13 Creating and Exporting Components
+- 14 Props in Depth: Passing and Defaulting
+- 15 Using `children` and Composing Components
 
 ---
 
 ### D. State Management Basics
-16 Understanding Local Component State
-17 Managing State with `useState`
-18 Updating and Merging State Correctly
-19 State in Class Components (Legacy)
-20 Lifting State Up
-21 Managing Multiple State Variables
+- 16 Understanding Local Component State
+- 17 Managing State with `useState`
+- 18 Updating and Merging State Correctly
+- 19 State in Class Components (Legacy)
+- 20 Lifting State Up
+- 21 Managing Multiple State Variables
 
 ---
 
