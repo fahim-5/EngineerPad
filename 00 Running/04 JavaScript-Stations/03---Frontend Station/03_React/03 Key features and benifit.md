@@ -1,4 +1,4 @@
-### **3. Key Features & Benefits of React**  
+# **Key Features & Benefits of React**  
 
 React revolutionized frontend development with its **unique architecture and performance optimizations**. Here’s a breakdown of its **core features** and why they matter:  
 
