@@ -4,14 +4,14 @@
 **EngineerPad** is my meticulously curated knowledge vault and training ground for mastering modern software engineering at **world-class standards**. This living repository combines structured learning materials, production-grade examples, and battle-tested resources across the full-stack spectrum.
 
 ## 📋 Table of Contents
-1. [✨ Purpose & Philosophy](#-purpose--philosophy)
-2. [🧠 Knowledge Domains](#-knowledge-domains)
-3. [🏗️ Project Structure](#️-project-structure)
-4. [🛠️ Usage Guide](#️-usage-guide)
-5. [⚡ Tech Radar](#-tech-radar)
-6. [📚 Elite Resources](#-elite-resources)
-7. [🔐 License](#-license)
-8. [🤖 AI Collaboration](#-ai-collaboration)
+ [✨ Purpose & Philosophy](#-purpose--philosophy)
+ [🧠 Knowledge Domains](#-knowledge-domains)
+ [🏗️ Project Structure](#️-project-structure)
+ [🛠️ Usage Guide](#️-usage-guide)
+ [⚡ Tech Radar](#-tech-radar)
+ [📚 Elite Resources](#-elite-resources)
+ [🔐 License](#-license)
+ [🤖 AI Collaboration](#-ai-collaboration)
 
 ---
 
