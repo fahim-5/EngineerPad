@@ -6,7 +6,7 @@ C is a high-level, general-purpose programming language that has had a massive i
 
 ---
 
-## History of C
+## History of C in short
 
 | Year | Milestone |
 |------|-----------|
