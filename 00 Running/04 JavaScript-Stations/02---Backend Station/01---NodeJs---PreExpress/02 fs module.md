@@ -191,7 +191,6 @@ readStream.on('end', () => {
 1. Prefer asynchronous methods to avoid blocking the event loop
 2. Use error handling for all file operations
 3. For large files, use streams instead of reading the entire file into memory
-4. Consider using the `path` module alongside `fs` for cross-platform path handling
 5. In modern Node.js, prefer the promise-based API over callbacks
 
 The `fs` module is powerful and essential for any Node.js application that needs to work with the file system. Choose the right method (sync/async, callbacks/promises, streams) based on your specific use case.
