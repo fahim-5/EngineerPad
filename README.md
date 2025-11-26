@@ -51,7 +51,7 @@ A Practical, Beginner‑Friendly → Expert Level Syllabus
 5.5 Working with Range  
 5.6 Make vs New
 
-## **Chapter 6 – Structs & Methods**
+## **✅Chapter 6 – Structs & Methods**
 6.1 Struct Basics  
 6.2 Embedding & Composition  
 6.3 Methods  
