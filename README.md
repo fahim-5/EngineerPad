@@ -1,8 +1,8 @@
 # 📘 Complete Golang Learning Roadmap – 23‑Chapter TOC  
 A Practical, Beginner‑Friendly → Expert Level Syllabus
 
-Done ✅
-## **Chapter 1 – Introduction to Go** 
+
+## **✅Chapter 1 – Introduction to Go** 
 1.1 What is Go?  
 1.2 Why Go Was Created  
 1.3 Who Uses Go Today  
@@ -13,8 +13,8 @@ Done ✅
 1.8 Go Toolchain Overview  
 1.9 Installing Go & Setting Up Workspace
     
-Done ✅
-## **Chapter 2 – Go Basics** 
+
+## **✅Chapter 2 – Go Basics** 
 2.1 Your First Go Program  
 2.2 Understanding Packages & `main`  
 2.3 Variables & Constants  
@@ -24,8 +24,8 @@ Done ✅
 2.7 Operators (Arithmetic, Logical, Comparison)  
 2.8 Comments & Documentation
 
-Done ✅
-## **Chapter 3 – Control Flow**  
+
+## **✅Chapter 3 – Control Flow**  
 3.1 if / else  
 3.2 switch  
 3.3 for Loop Variations           
