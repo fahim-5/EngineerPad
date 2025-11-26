@@ -43,7 +43,7 @@ A Practical, Beginner‑Friendly → Expert Level Syllabus
 4.7 Defer Keyword  
 4.8 Panic & Recover
 
-## **Chapter 5 – Arrays, Slices & Maps**
+## **✅Chapter 5 – Arrays, Slices & Maps**
 5.1 Arrays  
 5.2 Slices  
 5.3 Slice Backing Arrays  
