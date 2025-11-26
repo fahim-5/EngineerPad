@@ -33,7 +33,7 @@ A Practical, Beginner‑Friendly → Expert Level Syllabus
 3.5 Labelled Statements
 
 
-## **Chapter 4 – Functions**
+## **✅Chapter 4 – Functions**
 4.1 Declaring Functions  
 4.2 Parameters & Return Types  
 4.3 Named Returns  
