@@ -1,33 +1,37 @@
 # 📘 Complete Golang Learning Roadmap – 23‑Chapter TOC  
 A Practical, Beginner‑Friendly → Expert Level Syllabus
 
+Done ✅
 ## **Chapter 1 – Introduction to Go** 
 1.1 What is Go?  
 1.2 Why Go Was Created  
 1.3 Who Uses Go Today  
 1.4 Key Features of Go  
-1.5 Strengths & Weaknesses of Go       Done ✅
+1.5 Strengths & Weaknesses of Go       
 1.6 Where Go Is Best Used  
 1.7 How Go Code Is Structured  
 1.8 Go Toolchain Overview  
 1.9 Installing Go & Setting Up Workspace
     
+Done ✅
 ## **Chapter 2 – Go Basics** 
 2.1 Your First Go Program  
 2.2 Understanding Packages & `main`  
 2.3 Variables & Constants  
-2.4 Data Types in Go                 Done ✅
+2.4 Data Types in Go                 
 2.5 Getting User Input  
 2.6 Type Conversion  
 2.7 Operators (Arithmetic, Logical, Comparison)  
 2.8 Comments & Documentation
 
+Done ✅
 ## **Chapter 3 – Control Flow**  
 3.1 if / else  
 3.2 switch  
-3.3 for Loop Variations           Done ✅
+3.3 for Loop Variations           
 3.4 break & continue  
 3.5 Labelled Statements
+
 
 ## **Chapter 4 – Functions**
 4.1 Declaring Functions  
