@@ -58,7 +58,7 @@ A Practical, Beginner‑Friendly → Expert Level Syllabus
 6.4 Pointer Receivers  
 6.5 Value vs Pointer Methods
 
-## **Chapter 7 – Interfaces**
+## **✅Chapter 7 – Interfaces**
 7.1 What is an Interface?  
 7.2 Implicit Implementation  
 7.3 Empty Interface  
